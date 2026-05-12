@@ -1,4 +1,6 @@
-ResuMatch — Next.js app for profile ingestion, job matching, and generation.
+# ResuMatch
+
+ResuMatch is a web app that helps job seekers turn a single profile into tailored resumes, cover letters, and form-ready JSON. Upload a resume and a job description, then review structured experience, matched job evidence, and copy-ready outputs in a private, human-first workflow.
 
 ## Getting Started
 
